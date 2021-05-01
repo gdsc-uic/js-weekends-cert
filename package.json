@@ -1,0 +1,22 @@
+{
+  "name": "javascript-weekend-cert-app",
+  "version": "1.0.2",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^8.4.2",
+    "namecase": "^1.1.2",
+    "normalize.css": "^8.0.1",
+    "vue": "^3.0.5",
+    "vue-router": "4",
+    "vuex": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.1",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.1.5"
+  }
+}
